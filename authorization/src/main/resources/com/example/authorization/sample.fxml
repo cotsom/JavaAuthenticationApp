@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="700.0" style="-fx-background-color: #01012b;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.authorization.Controller">
+   <children>
+      <AnchorPane layoutY="144.0" prefHeight="257.0" prefWidth="700.0" style="-fx-background-color: #01012b;">
+         <children>
+            <TextField fx:id="loginField" layoutX="200.0" layoutY="26.0" prefHeight="40.0" prefWidth="296.0" promptText="Login">
+               <font>
+                  <Font size="21.0" />
+               </font>
+            </TextField>
+            <Button fx:id="signInButton" layoutX="265.0" layoutY="172.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="170.0" style="-fx-background-color: #005678;" text="Sign in" textFill="#ff2a6d">
+               <font>
+                  <Font size="22.0" />
+               </font>
+            </Button>
+            <PasswordField fx:id="passwordField" layoutX="200.0" layoutY="89.0" prefHeight="40.0" prefWidth="296.0" promptText="Password">
+               <font>
+                  <Font size="21.0" />
+               </font>
+            </PasswordField>
+         </children>
+      </AnchorPane>
+      <BorderPane layoutX="173.0" layoutY="44.0" prefHeight="66.0" prefWidth="351.0" style="-fx-border-color: #005678;" />
+      <Label layoutX="206.0" layoutY="14.0" prefHeight="120.0" prefWidth="315.0" text="authorization" textFill="#ff2a6d">
+         <font>
+            <Font name="Dhurjati" size="61.0" />
+         </font>
+      </Label>
+      <Button fx:id="signUpButton" layoutX="587.0" layoutY="27.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="99.0" style="-fx-background-color: #005678;" text="Sign up" textFill="#ff2a6d">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

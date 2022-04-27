@@ -1,0 +1,20 @@
+
+`	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+q
+java:S2159."VRemove this call to "equals"; comparisons between unrelated types always return false.(¨¦Öîúÿÿÿÿ
+Z
+java:S21473"DCombine this catch with the one at line 49, which has the same body.(ıàÑÎ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(êÓæøùÿÿÿÿ
+R
+java:S1854h"=Remove this useless assignment to local variable "userExist".(½§Z
+I
+java:S1481U".Remove this unused "userExist" local variable.(ˆÓÆâüÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(şÒãûÿÿÿÿ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(òï­¿øÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'javafx.scene.control.Label'.(ö²­ÿÿÿÿÿ
+9
+java:S1128"Remove this duplicated import.(ÃÚ¢„şÿÿÿÿ

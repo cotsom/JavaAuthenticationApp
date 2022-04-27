@@ -1,0 +1,37 @@
+
+`	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+_
+java:S21472"DCombine this catch with the one at line 48, which has the same body.(½å€ùûÿÿÿÿ
+Z
+java:S2147-"DCombine this catch with the one at line 43, which has the same body.(ýàÑÎ
+1
+java:S3626Q"Remove this redundant jump.(ûÁÝ…
+š
+java:S11308"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(Ó¶Í‚ùÿÿÿÿ
+Ÿ
+java:S11308"ƒRemove the declaration of thrown exception 'java.security.spec.InvalidKeySpecException', as it cannot be thrown from method's body.(Ó¶Í‚ùÿÿÿÿ
+=
+java:S1125@"'Remove the unnecessary boolean literal.(™û™”
+Z
+java:S2147I"DCombine this catch with the one at line 71, which has the same body.(ýàÑÎ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.( ¹©¢
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(Ÿ«¥€ÿÿÿÿÿ
+T
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ÞÛ
+N
+java:S1128	"8Remove this unused import 'java.security.MessageDigest'.(Œð²»
+R
+java:S1128"7Remove this unused import 'java.security.SecureRandom'.(›éè™úÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'java.security.spec.KeySpec'.(Îàèµÿÿÿÿÿ
+U
+java:S1128":Remove this unused import 'javax.crypto.SecretKeyFactory'.(½Å™Øÿÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'javax.crypto.spec.PBEKeySpec'.(˜œ®ÿ
+P
+java:S1141)"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
